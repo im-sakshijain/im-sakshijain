@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋 I'm Sakshi Jain</h1>
 <h3 align="center">I'm a CSE sophomore, a passionate coder and a front-end Web Developer.</h3>
 
-- 🔭 I’m currently working on **Web Dev technologioes like Javascript,react etc.**
+- 🔭 I’m currently working on **Web Dev technologies like Javascript,react etc.**
 
 - Here's my <a href ="https://drive.google.com/file/d/1nFSReqNHdlN5MxnNLfmjIugxmFNCIdmw/view?usp=sharing">RESUME</a>
 
