@@ -1,3 +1,5 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-sakshijain&label=Profile%20views&color=0e75b6&style=flat" alt="im-sakshijain" /> </p>
 <h1 align="center">Hello World! 👋 I'm Sakshi Jain</h1>
 <h3 align="center">I'm a CSE sophomore, a passionate coder and a front-end Web Developer.</h3>
 
@@ -11,6 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sakshi-jain-3198631b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sakshi jain" height="30" width="40" /></a>
 <a href="https://instagram.com/imsakshi._.jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imsakshi._.jain" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/sakshi_jain09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sakshi_jain09" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jain_sakshi09221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jain_sakshi09221" height="30" width="40" /></a>
 </p>
 
